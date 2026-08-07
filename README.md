@@ -10,10 +10,10 @@ A simple and responsive **Currency Converter** built using **HTML, CSS, and Java
 * Country flags displayed for selected currencies.
 * Built without any third-party API.
 
-## 🛠️ Technologies Used
+## Technologies Used
 * HTML5
 * CSS3
-* JavaScript (Vanilla JS)
+* JavaScript
 
 ## How It Works
 This project uses **manually defined exchange rates** stored in the JavaScript files. When a user selects the source and target currencies and enters an amount, the application calculates the converted value using the predefined conversion rates.
